@@ -1,7 +1,6 @@
 # 👋welcome to smash-cookie
 ## this is a project for Nash Agri InternShip
 
-#### (if you want to run go to line no:)
 
 ![image](https://user-images.githubusercontent.com/82057297/127852316-8577bac4-cfea-41d3-973d-75260e0138a5.png)
 
