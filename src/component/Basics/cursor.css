@@ -1,0 +1,7 @@
+.cursor_pointer:hover{
+    cursor:pointer;
+}
+
+.cursor_no:hover{
+    cursor: not-allowed;
+}
